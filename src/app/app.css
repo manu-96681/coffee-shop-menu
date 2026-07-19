@@ -1,0 +1,159 @@
+/* Whole Page */
+body{
+
+    background-color:#f8f3ed;
+
+    font-family:Arial,sans-serif;
+
+}
+
+/* Main Container */
+.container{
+
+    width:400px;
+
+    margin:30px auto;
+
+    background:white;
+
+    padding:20px;
+
+    border-radius:10px;
+
+    box-shadow:2px 2px 8px gray;
+
+}
+
+/* Heading */
+h1{
+
+    text-align:center;
+
+    color:brown;
+
+}
+
+/* Search Box */
+input{
+
+    width:95%;
+
+    padding:8px;
+
+    border-radius:5px;
+
+    border:1px solid gray;
+
+}
+
+/* Coffee Card */
+.card{
+
+    background:#fff8f0;
+
+    margin-top:15px;
+
+    padding:15px;
+
+    border-radius:8px;
+
+    border:1px solid lightgray;
+
+}
+
+/* Coffee Name */
+h2{
+
+    color:brown;
+
+}
+
+/* Button */
+button{
+
+    background:brown;
+
+    color:white;
+
+    border:none;
+
+    padding:8px 15px;
+
+    border-radius:5px;
+
+    cursor:pointer;
+
+}
+
+/* Button Hover */
+button:hover{
+
+    background:darkred;
+
+}
+/* Coffee Not Found */
+
+.not-found{
+
+    margin-top:20px;
+
+    padding:20px;
+
+    background:#FFF8F0;
+
+    border:2px dashed brown;
+
+    border-radius:10px;
+
+}
+
+/* Coffee Not Found Heading */
+
+.not-found h2{
+
+    color:brown;
+
+    margin-bottom:10px;
+
+}
+
+/* Coffee Not Found Paragraph */
+
+.not-found p{
+
+    color:#5C4033;
+
+    font-size:16px;
+
+    margin:8px 0;
+
+}
+
+/* Coffee Name */
+
+.not-found b{
+
+    color:brown;
+
+}
+/* Matches Found */
+
+.matches{
+
+    margin-top:15px;
+
+    margin-bottom:10px;
+
+    padding:10px;
+
+    background:#FFF8F0;
+
+    border:1px solid #D2B48C;
+
+    border-radius:8px;
+
+    color:brown;
+
+    font-weight:bold;
+
+}
